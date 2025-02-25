@@ -1,2 +1,1 @@
-# amigo-secreto
-Implementación del amigo secreto en Alura Latam
+**<h1 align="center">Amigo Secreto</h1>**
