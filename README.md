@@ -1,7 +1,7 @@
 
 ***<h1 align="center">Amigo Secreto</h1>***
 
-
+![Image](https://github.com/user-attachments/assets/a154d9d9-d5f6-4dd2-8291-79d99a74fc29)
 
 :white_check_mark:<h3>Proyecto Final</h3>:100: :tada:
 
