@@ -1,6 +1,7 @@
 
 ***<h1 align="center">Amigo Secreto</h1>***
 
+
 :white_check_mark:<h3>Proyecto Final</h3>:100: :tada:
 
 ### :loudspeaker: Descripción
@@ -17,5 +18,7 @@
 >
 ### :computer: Tecnología Utilizadas
 >- JavaScript
+>- CSS
+>- HTML
 ### :girl: Autora
 >- Elida Schultz
